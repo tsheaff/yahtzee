@@ -88,8 +88,6 @@ func TryForYahtzee(dice Dice) bool {
 }
 
 func main() {
-	fmt.Println("hello from yahtzee")
-
 	dice := newDice()
 
 	numAttempts := 1000000
