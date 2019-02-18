@@ -1,6 +1,6 @@
 # yahtzee
 
-Emperical Yahtzee probability calculator, written in golang
+Empirical Yahtzee probability calculator, written in golang
 
 Run with `go run ./main/yahtzee.go` from terminal. This will output something like the following:
 
